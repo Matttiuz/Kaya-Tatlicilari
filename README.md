@@ -1,16 +1,11 @@
 
-# Flutter Projesi
 
-  
-
-![İstinye Üniversitesi](https://www.unitededucation.com/linklogoch/istinye-university-logo.png)
-
+# Kaya Tatlicilari
   
 
 ## Proje Hakkında
 
-[Projenin kısa tanımı ve amacı buraya yazılacak]
-
+Kaya Tatlıcısına özel bir sipariş uygulaması.
   
 
 ## Ekibimiz
@@ -21,17 +16,16 @@
 
 -  **Takım Üyeleri:**
 
-- X [GitHub](GitHub linki)
+- Mustafa Kaya [GitHub](https://github.com/Matttiuz)
 
   
 
 ## Özellikler
 
-- [Ana özellik 1]
+- [Kullanıcı isteğine göre tatlılar seçip sipariş edebilecek]
 
-- [Ana özellik 2]
+- [Admin kullanıcıya özel kuponlar tanımlayabilecek]
 
-- [Ana özellik 3]
 
   
 
@@ -51,7 +45,7 @@
 
 ### Gereksinimler
 
-- Flutter SDK (sürüm X.X.X)
+- Flutter SDK (sürüm 3.5.4)
 
 - Dart SDK (sürüm X.X.X)
 
@@ -65,7 +59,7 @@
 
 ```bash
 
-git  clone [proje-adresi]
+git  clone [https://github.com/Matttiuz/Kaya-Tatlicilari]
 
 ```
 
@@ -75,7 +69,7 @@ git  clone [proje-adresi]
 
 ```bash
 
-cd [proje-adı]
+cd [mustafa]
 
 ```
 
@@ -149,19 +143,12 @@ lib/
 
 ## İletişim
 
-- Proje Bağlantısı: [GitHub repository linki]
-
-- İstinye Üniversitesi: [https://www.istinye.edu.tr/](https://www.istinye.edu.tr/)
+- Proje Bağlantısı: [https://github.com/Matttiuz/Kaya-Tatlicilari]
 
   
 
 ## Teşekkürler
 
-- İstinye Üniversitesi'ne destekleri için teşekkür ederiz
+-Değerli hocam Keyvan Arasteh'ya teşekkür ederim.
 
-- [Diğer teşekkürler]
-
-  
-  
-
-Bunlari degistirmeniz gerekmektedir ;-)
+- İstinye Üniversitesi'ne destekleri için teşekkür ederiz.
