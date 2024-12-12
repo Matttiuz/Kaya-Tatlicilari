@@ -49,7 +49,7 @@ class LoadingScreen extends StatelessWidget {
                 ),
               ),
             ),
-            // biraz boslok lazim
+            // biraz bosluk lazim
             SizedBox(height: 20),
           ],
         ),
